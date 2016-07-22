@@ -1,1 +1,9 @@
-/* add some styles */
+div {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  font-family: sans-serif;
+
+}
+
+form
